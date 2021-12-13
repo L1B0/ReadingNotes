@@ -1,5 +1,8 @@
 # ReadingNotes
 
-读论文的笔记
+论文网站: 
 
-1. 免费获取论文的网站: https://sci-hub.tw
+- [Sci-Hub](https://tool.yovisun.com/scihub/)
+- [dblp](https://dblp.uni-trier.de/)
+- [Google Scholar](https://scholar.google.com/)
+- [zhiwang](https://www.cnki.net/?autoLogin=0)
